@@ -4,6 +4,8 @@
 
 **Model Overview:** The model is built on pre-trained models (e.g., "emilyalsentzer/Bio_ClinicalBERT," "UFNLP/gatortron-base") from Hugging Face's Transformers library, adapted to recognize specific patterns in clinical narratives that relate to alcohol consumption.
 
+**Access:** https://huggingface.co/kartoun/Bio_ClinicalBERT_for_Alcohol_Use_Classification (108M parameters), https://huggingface.co/kartoun/gatortron-base_for_Alcohol_Use_Classification (355M parameters).
+
 **Data for Fine-tuning** https://huggingface.co/datasets/kartoun/Alcohol_Use_Clinical_Notes_GPT4
 This dataset contains 1,500 samples of expressions indicating alcohol use or its negation, generated from clinical narrative notes using OpenAI's ChatGPT 4 model. It's designed to support NLP applications that require the identification of alcohol use references in healthcare records.
 
