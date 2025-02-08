@@ -11,4 +11,4 @@ Output: The fine-tuned model and tokenizer are saved in a designated directory, 
 
 Contributing: Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or enhancements you identify.
 
-Acknowledgment: This project utilizes the dataset and fine-tuned models developed by Dr. Uri Kartoun.
+Acknowledgment: This project utilizes the dataset and fine-tuned models developed by Dr. Uri Kartoun (https://urikartoun.com/).
