@@ -9,7 +9,7 @@
 **Data for Fine-tuning** https://huggingface.co/datasets/kartoun/Alcohol_Use_Clinical_Notes_GPT4
 This dataset contains 1,500 samples of expressions indicating alcohol use or its negation, generated from clinical narrative notes using OpenAI's ChatGPT 4 model. It's designed to support NLP applications that require the identification of alcohol use references in healthcare records.
 
-**Usage:** Run the "Fine-tuning" script to handle data loading, model initialization, training, and saving the model outputs. Afterwards, run the "Performance assessment" script to evaluate the model's performance metrics
+**Usage:** Run the "Fine-tuning" script to handle data loading, model initialization, training, and saving the model outputs. Afterwards, run the "Performance assessment" script to evaluate the model's performance metrics. You can query the model with a single text blob and get a classification value (0 or 1).
 
 **Output:** The fine-tuned model and tokenizer are saved in a designated directory, along with performance metrics for review.
 
