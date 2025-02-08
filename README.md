@@ -7,7 +7,7 @@ This dataset contains 1,500 samples of expressions indicating alcohol use or its
 
 Usage: Run the "Fine-tuning" script to handle data loading, model initialization, training, and saving the model outputs. Afterwards, run the "Performance assessment" script to evaluate the model's performance metrics
 
-Output: The trained model and tokenizer are saved in a designated directory, along with performance metrics for review.
+Output: The fine-tuned model and tokenizer are saved in a designated directory, along with performance metrics for review.
 
 Contributing: Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or enhancements you identify.
 
