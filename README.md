@@ -1,3 +1,5 @@
+**Acknowledgment:** This project utilizes the dataset and fine-tuned models developed by Dr. Uri Kartoun (https://urikartoun.com/).
+
 **Goal:** This code fine-tunes a pre-trained language model to classify expressions from clinical narrative notes regarding alcohol use. The goal is to identify if the expression indicates alcohol use or if it depicts appropriate use or non-use.
 
 **Model Overview:** The model is built on pre-trained models (e.g., "emilyalsentzer/Bio_ClinicalBERT," "UFNLP/gatortron-base") from Hugging Face's Transformers library, adapted to recognize specific patterns in clinical narratives that relate to alcohol consumption.
@@ -10,5 +12,3 @@ This dataset contains 1,500 samples of expressions indicating alcohol use or its
 **Output:** The fine-tuned model and tokenizer are saved in a designated directory, along with performance metrics for review.
 
 **Contributing:** Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or enhancements you identify.
-
-**Acknowledgment:** This project utilizes the dataset and fine-tuned models developed by Dr. Uri Kartoun (https://urikartoun.com/).
