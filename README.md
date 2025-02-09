@@ -13,4 +13,6 @@ This dataset contains 1,500 samples of expressions indicating alcohol use or its
 
 **Output:** The fine-tuned model and tokenizer are saved in a designated directory, along with performance metrics for review.
 
+**Generalizability:** The source code can be adapted to fine-tune pre-trained clinical models for a wide range of classification tasks beyond just alcohol use classification. This includes tasks like identifying Social Determinants of Health, as well as multi-label classifications such as smoking status (current, past, never) or more complex scenarios like classifying one of the seven classes of pancreatic cancer, all with minimal adjustments to the code and training set.
+
 **Contributing:** Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or enhancements you identify.
