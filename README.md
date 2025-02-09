@@ -6,7 +6,7 @@
 
 **Access:** https://huggingface.co/kartoun/Bio_ClinicalBERT_for_Alcohol_Use_Classification (108M parameters), https://huggingface.co/kartoun/gatortron-base_for_Alcohol_Use_Classification (355M parameters).
 
-![test text](http://[https://github.com/kartoun/alcohol_use_classification_llms/blob/main/images/ROC%20Feb%209%202025.png)
+![test text](https://github.com/kartoun/alcohol_use_classification_llms/blob/main/images/ROC%20Feb%209%202025.png)
 
 **Data for Fine-tuning** https://huggingface.co/datasets/kartoun/Alcohol_Use_Clinical_Notes_GPT4
 This dataset contains 1,500 samples of expressions indicating alcohol use or its negation, generated from clinical narrative notes using OpenAI's ChatGPT 4 model. It's designed to support NLP applications that require the identification of alcohol use references in healthcare records.
