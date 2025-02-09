@@ -7,6 +7,7 @@
 **Access:** https://huggingface.co/kartoun/Bio_ClinicalBERT_for_Alcohol_Use_Classification (108M parameters), https://huggingface.co/kartoun/gatortron-base_for_Alcohol_Use_Classification (355M parameters).
 
 **Classification performance using a held-out set:**
+
 ![test text](https://github.com/kartoun/alcohol_use_classification_llms/blob/main/images/ROC%20Feb%209%202025.png)
 
 **Data for Fine-tuning** https://huggingface.co/datasets/kartoun/Alcohol_Use_Clinical_Notes_GPT4
